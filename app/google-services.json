@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812882109209",
+    "project_id": "appfirebase-bef80",
+    "storage_bucket": "appfirebase-bef80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812882109209:android:b05fc4a3fd457b6959db88",
+        "android_client_info": {
+          "package_name": "br.unisanta.appsanta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQni31K4EoZqeZB9xig8oNWK-hzMiKucw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
